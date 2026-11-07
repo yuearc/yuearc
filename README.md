@@ -2,7 +2,7 @@
   <img src="assets/banner.svg" alt="Keep exploring — AI agents and backend engineering" width="100%" />
 </p>
 
-<h1 align="center">Hi, I'm yyyyyyyyiiiii 👋</h1>
+<h1 align="center">Hi, I'm Yue Arc 👋</h1>
 
 <p align="center">
   计算机硕士 · 保持好奇，持续探索<br />
