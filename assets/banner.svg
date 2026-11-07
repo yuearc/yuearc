@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="300" viewBox="0 0 1280 300" role="img" aria-labelledby="title desc">
+  <title id="title">Keep exploring.</title>
+  <desc id="desc">AI agents and backend engineering. Learning Python, Java, and Go.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0b1428"/>
+      <stop offset="1" stop-color="#12374a"/>
+    </linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#8bd5e5" stroke-opacity=".07"/>
+    </pattern>
+  </defs>
+  <rect width="1280" height="300" rx="20" fill="url(#bg)"/>
+  <rect width="1280" height="300" rx="20" fill="url(#grid)"/>
+  <g fill="none" stroke="#5ed5cf" stroke-width="2">
+    <path d="M930 96H1032L1108 171H1190" opacity=".28"/>
+    <path d="M953 220H1025L1108 137H1190" opacity=".18"/>
+    <circle cx="1032" cy="96" r="9" fill="#153b4a"/>
+    <circle cx="1108" cy="171" r="9" fill="#153b4a"/>
+    <circle cx="1025" cy="220" r="6" fill="#153b4a"/>
+    <circle cx="1190" cy="137" r="6" fill="#153b4a"/>
+  </g>
+  <circle cx="64" cy="58" r="5" fill="#5eead4"/>
+  <g font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Arial, sans-serif">
+    <text x="82" y="64" fill="#8de0da" font-size="17" font-weight="600" letter-spacing="3">COMPUTER SCIENCE</text>
+    <text x="58" y="142" fill="#f4f8ff" font-size="62" font-weight="750" letter-spacing="-2">Keep exploring.</text>
+    <text x="62" y="184" fill="#b6cedc" font-size="22" letter-spacing="1">AI AGENTS / BACKEND ENGINEERING</text>
+    <g font-size="17" font-weight="600" fill="#e6f5ff">
+      <rect x="62" y="220" width="112" height="36" rx="18" fill="#ffffff" fill-opacity=".08" stroke="#ffffff" stroke-opacity=".16"/>
+      <text x="118" y="244" text-anchor="middle">Python</text>
+      <rect x="188" y="220" width="92" height="36" rx="18" fill="#ffffff" fill-opacity=".08" stroke="#ffffff" stroke-opacity=".16"/>
+      <text x="234" y="244" text-anchor="middle">Java</text>
+      <rect x="294" y="220" width="74" height="36" rx="18" fill="#ffffff" fill-opacity=".08" stroke="#ffffff" stroke-opacity=".16"/>
+      <text x="331" y="244" text-anchor="middle">Go</text>
+    </g>
+    <text x="1218" y="258" text-anchor="end" fill="#7ea5b6" font-size="16" letter-spacing="2">LEARN · BUILD · ITERATE</text>
+  </g>
+</svg>
